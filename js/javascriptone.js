@@ -1,0 +1,1 @@
+blockedspaceFonts.loadViaContext(); blockedspace.load(window);
